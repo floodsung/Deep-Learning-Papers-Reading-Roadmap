@@ -61,6 +61,13 @@ I would continue adding papers to this roadmap.
 
 ### 2.1 Optimization
 
+**[14]** Hinton, Geoffrey E., et al. "**Improving neural networks by preventing co-adaptation of feature detectors**." arXiv preprint arXiv:1207.0580 (2012).[[pdf]](https://arxiv.org/pdf/1207.0580.pdf) **(Dropout)** :star::star::star:
+
+**[15]** Srivastava, Nitish, et al. "**Dropout: a simple way to prevent neural networks from overfitting**." Journal of Machine Learning Research 15.1 (2014): 1929-1958.[[pdf]](http://www.jmlr.org/papers/volume15/srivastava14a.old/source/srivastava14a.pdf) :star::star::star:
+
+
+
+
 ### 2.2 Model
 
 ### 2.3 Unsupervised Learning
