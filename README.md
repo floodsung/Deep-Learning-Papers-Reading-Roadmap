@@ -208,6 +208,8 @@ I would continue adding papers to this roadmap.
 
 ## 3.7 Art
 
+**[68]** Leon A. Gatys, Alexander S. Ecker, Matthias Bethge. "**A Neural Algorithm of Artistic Style**." arXiv preprint arXiv:1508.06576(2015) [[pdf]](https://arxiv.org/abs/1508.06576) :star::star:
+
 ## 3.8 Game
 
 ## 3.9 Robotics
