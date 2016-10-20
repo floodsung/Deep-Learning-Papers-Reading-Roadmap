@@ -24,7 +24,7 @@ I would continue adding papers to this roadmap.
 
 **[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book in preparation. Draft chapters available at http://www. iro. umontreal. ca/∼ bengioy/dlbook (2015).[[pdf]](https://github.com/HFTrader/DeepLearningBook) **(Deep Learning Bible, you can read this book while reading following papers.)** :star::star::star::star::star:
 
-## 1.1 Survey 
+## 1.1 Survey
 
 **[1]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) **(Three Giants' Survey)** :star::star::star::star::star:
 
@@ -181,6 +181,23 @@ I would continue adding papers to this roadmap.
 # 3 Applications
 
 ## 3.1 NLP(Natural Language Processing)
+
+**[61]** Antoine Bordes, Xavier Glorot, Jason Weston and Yoshua Bengio. "**Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing**." AISTATS(2012) [[pdf]](https://www.hds.utc.fr/~bordesan/dokuwiki/lib/exe/fetch.php?id=en%3Apubli&cache=cache&media=en:bordes12aistats.pdf) :star::star::star::star:
+
+**[62]** Socher, R., Huang, E. H., Pennington, J., Ng, A. Y., and Manning, C. D. "**Dynamic pooling and unfolding recursive autoencoders for paraphrase detection**." NIPS(2011) [[pdf]](http://nlp.stanford.edu/pubs/SocherHuangPenningtonNgManning_NIPS2011.pdf) :star::star::star:
+
+**[63]** Socher, R., Pennington, J., Huang, E. H., Ng, A. Y., and Manning, C. D. "**Semi-supervised recursive autoencoders for predicting sentiment distributions**." [[pdf]](http://nlp.stanford.edu/pubs/SocherPenningtonHuangNgManning_EMNLP2011.pdf) :star::star::star:
+
+**[64]** Mikolov Tomáš. "**Statistical Language Models based on Neural Networks**." [[pdf]](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf) :star::star::star:
+
+**[65]** Graves, Alex, and Jürgen Schmidhuber. "**Framewise phoneme classification with bidirectional LSTM and other neural network architectures**." Neural Networks 18.5 (2005): 602-610 [[pdf]](http://www.cs.toronto.edu/~graves/ijcnn_2005.pdf) :star::star::star:
+
+**[66]** Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. "**Distributed representations of words and phrases and their compositionality**." ANIPS(2013): 3111-3119 [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) :star::star::star:
+
+**[67]** K. Cho, B. van Merrienboer, C. Gulcehre, D. Bahdanau, F. Bougares, H. Schwenk, Y. Bengio. "**Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation**." EMNLP(2014) [[pdf]](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf) :star::star::star:
+
+**[68]** Sutskever, Ilya, Oriol Vinyals, and Quoc VV Le. "**“Sequence to sequence learning with neural networks**." ANIPS(2014) [[pdf]](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) :star::star::star:
+
 
 ## 3.2 Image Detection
 
