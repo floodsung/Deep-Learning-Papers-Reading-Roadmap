@@ -225,7 +225,7 @@ I would continue adding papers to this roadmap.
 
 **[79]** Yang, Yezhou, et al. Corpus-guided sentence generation of natural images. In Proceedings of the Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics, 2011. [[pdf]](http://www.umiacs.umd.edu/~yzyang/paper/sengen_emnlp2011_final.pdf)
 
-**[80]** Mitchell, Margaret, et al. Midge: Generating image descriptions from computer vision detections. In Proceedings of the 13th Conference of the European Chapter of the Association for Computational Linguistics. Association for Computational Linguistics, 2012.[[pdf]](https://vision.cs.unc.edu/home/publications/EACL12.pdf
+**[80]** Mitchell, Margaret, et al. Midge: Generating image descriptions from computer vision detections. In Proceedings of the 13th Conference of the European Chapter of the Association for Computational Linguistics. Association for Computational Linguistics, 2012.[[pdf]](https://vision.cs.unc.edu/home/publications/EACL12.pdf)
 
 **[81]** Kuznetsova, Polina, et al. Treetalk: Composition and compression of trees for image descriptions. In Transactions of the Association for Computational Linguis- tics 2.10: 351-362, 2014. [[pdf]](https://homes.cs.washington.edu/~yejin/Papers/tacl14_treetalk.pdf)
 
@@ -233,7 +233,7 @@ I would continue adding papers to this roadmap.
 
 **[83]** Kiros, Ryan, Ruslan Salakhutdinov, and Richard S. Zemel. Unifying visual-semantic embeddings with multimodal neural language models. In arXiv preprint arXiv:1411.2539, 2014. [[pdf]](https://arxiv.org/pdf/1411.2539v1.pdf)
 
-**[84]** Vinyals, Oriol, et al. Show and tell: A neural image caption generator. In arXiv preprint arXiv:1411.4555, 2014.[[pdf]](https://arxiv.org/pdf/1411.4555.pdf)
+**[84]** Vinyals, Oriol, et al. Show and tell: A neural image caption generator. In arXiv preprint arXiv:1411.4555, 2014.[[pdf]](https://arxiv.org/pdf/1411.4555.pdf):star::star::star:
 
 **[85]** Donahue, Jeff, et al. Long-term recurrent convolutional networks for visual recognition and description. In arXiv preprint arXiv:1411.4389 ,2014. [[pdf]](https://arxiv.org/pdf/1411.4389.pdf)
 
@@ -247,7 +247,7 @@ I would continue adding papers to this roadmap.
 
 **[90]** Mao, Junhua, et al. Deep captioning with multimodal recurrent neural networks (m-rnn). In arXiv preprint arXiv:1412.6632, 2014.[[pdf]](https://arxiv.org/pdf/1412.6632v5.pdf)
 
-**[91]** Xu, Kelvin, et al. Show, attend and tell: Neural image caption generation with visual attention. In arXiv preprint arXiv:1502.03044, 2015. [[pdf]](https://arxiv.org/pdf/1502.03044v3.pdf)
+**[91]** Xu, Kelvin, et al. Show, attend and tell: Neural image caption generation with visual attention. In arXiv preprint arXiv:1502.03044, 2015. [[pdf]](https://arxiv.org/pdf/1502.03044v3.pdf):star::star::star::star::star:
 
 ## 3.5 Machine Translation
 
