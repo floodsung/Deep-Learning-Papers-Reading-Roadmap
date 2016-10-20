@@ -182,22 +182,19 @@ I would continue adding papers to this roadmap.
 
 ## 3.1 NLP(Natural Language Processing)
 
-**[61]** Antoine Bordes, Xavier Glorot, Jason Weston and Yoshua Bengio. "**Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing**." AISTATS(2012) [[pdf]](https://www.hds.utc.fr/~bordesan/dokuwiki/lib/exe/fetch.php?id=en%3Apubli&cache=cache&media=en:bordes12aistats.pdf) :star::star::star::star:
+**[61]** Antoine Bordes, et al. "**Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing**." AISTATS(2012) [[pdf]](https://www.hds.utc.fr/~bordesan/dokuwiki/lib/exe/fetch.php?id=en%3Apubli&cache=cache&media=en:bordes12aistats.pdf) :star::star::star::star:
 
-**[62]** Socher, R., Huang, E. H., Pennington, J., Ng, A. Y., and Manning, C. D. "**Dynamic pooling and unfolding recursive autoencoders for paraphrase detection**." NIPS(2011) [[pdf]](http://nlp.stanford.edu/pubs/SocherHuangPenningtonNgManning_NIPS2011.pdf) :star::star::star:
+**[62]** Mikolov, et al. "**Distributed representations of words and phrases and their compositionality**." ANIPS(2013): 3111-3119 [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) :star::star::star:
 
-**[63]** Socher, R., Pennington, J., Huang, E. H., Ng, A. Y., and Manning, C. D. "**Semi-supervised recursive autoencoders for predicting sentiment distributions**." [[pdf]](http://nlp.stanford.edu/pubs/SocherPenningtonHuangNgManning_EMNLP2011.pdf) :star::star::star:
+**[63]** Sutskever, et al. "**“Sequence to sequence learning with neural networks**." ANIPS(2014) [[pdf]](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) :star::star::star:
 
-**[64]** Mikolov Tomáš. "**Statistical Language Models based on Neural Networks**." [[pdf]](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf) :star::star::star:
+**[64]** Ankit Kumar, et al. "**“Ask Me Anything: Dynamic Memory Networks for Natural Language Processing**." arXiv preprint arXiv:1506.07285(2015) [[pdf]](https://arxiv.org/abs/1506.07285) :star::star::star::star:
 
-**[65]** Graves, Alex, and Jürgen Schmidhuber. "**Framewise phoneme classification with bidirectional LSTM and other neural network architectures**." Neural Networks 18.5 (2005): 602-610 [[pdf]](http://www.cs.toronto.edu/~graves/ijcnn_2005.pdf) :star::star::star:
+**[65]** Yoon Kim, et al. "**Character-Aware Neural Language Models**." NIPS(2015) arXiv preprint arXiv:1508.06615(2015) [[pdf]](https://arxiv.org/abs/1508.06615) :star::star::star::star:
 
-**[66]** Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. "**Distributed representations of words and phrases and their compositionality**." ANIPS(2013): 3111-3119 [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) :star::star::star:
+**[66]** Jason Weston, et al. "**Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks**." arXiv preprint arXiv:1502.05698(2015) [[pdf]](https://arxiv.org/abs/1502.05698) :star::star::star:
 
-**[67]** K. Cho, B. van Merrienboer, C. Gulcehre, D. Bahdanau, F. Bougares, H. Schwenk, Y. Bengio. "**Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation**." EMNLP(2014) [[pdf]](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf) :star::star::star:
-
-**[68]** Sutskever, Ilya, Oriol Vinyals, and Quoc VV Le. "**“Sequence to sequence learning with neural networks**." ANIPS(2014) [[pdf]](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) :star::star::star:
-
+**[67]** Karl Moritz Hermann, et al. "**Teaching Machines to Read and Comprehend**." arXiv preprint arXiv:1506.03340(2015) [[pdf]](https://arxiv.org/abs/1506.03340) :star::star:
 
 ## 3.2 Image Detection
 
