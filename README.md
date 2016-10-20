@@ -216,21 +216,37 @@ I would continue adding papers to this roadmap.
 
 ## 3.4 Image/Video Caption
 **[75]** Ordonez, Vicente, Girish Kulkarni, and Tamara L. Berg. Im2text: Describing images using 1 million captioned photographs. In Advances in Neural Information Processing Systems, 2011. [[pdf]](http://tamaraberg.com/papers/generation_nips2011.pdf)
+
 **[76]** Farhadi,Ali,etal. Every picture tells a story: Generating sentences from images. In Computer VisionECCV 2010. Springer Berlin Heidelberg:15-29, 2010. [[pdf]](https://www.cs.cmu.edu/~afarhadi/papers/sentence.pdf)
+
 **[77]** Li, Siming, et al. Composing simple image descriptions using web-scale n-grams. In Proceedings of the Fifteenth Conference on Computational Natural Language Learning. Association for Computational Linguistics, 2011. [[pdf]](http://acberg.com/papers/ngram_desc.pdf)
+
 **[78]** Kulkarni, Girish, et al. Baby talk: Understanding and generating image descriptions. In Proceedings of the 24th CVPR, 2011. [[pdf]](http://tamaraberg.com/papers/generation_cvpr11.pdf):star::star::star::star:
+
 **[79]** Yang, Yezhou, et al. Corpus-guided sentence generation of natural images. In Proceedings of the Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics, 2011. [[pdf]](http://www.umiacs.umd.edu/~yzyang/paper/sengen_emnlp2011_final.pdf)
+
 **[80]** Mitchell, Margaret, et al. Midge: Generating image descriptions from computer vision detections. In Proceedings of the 13th Conference of the European Chapter of the Association for Computational Linguistics. Association for Computational Linguistics, 2012.[[pdf]](https://vision.cs.unc.edu/home/publications/EACL12.pdf
+
 **[81]** Kuznetsova, Polina, et al. Treetalk: Composition and compression of trees for image descriptions. In Transactions of the Association for Computational Linguis- tics 2.10: 351-362, 2014. [[pdf]](https://homes.cs.washington.edu/~yejin/Papers/tacl14_treetalk.pdf)
+
 **[82]** Mao, Junhua, et al. Explain images with multimodal recurrent neural networks. In arXiv preprint arXiv:1410.1090, 2014.[[pdf]](https://arxiv.org/pdf/1410.1090v1.pdf)
+
 **[83]** Kiros, Ryan, Ruslan Salakhutdinov, and Richard S. Zemel. Unifying visual-semantic embeddings with multimodal neural language models. In arXiv preprint arXiv:1411.2539, 2014. [[pdf]](https://arxiv.org/pdf/1411.2539v1.pdf)
+
 **[84]** Vinyals, Oriol, et al. Show and tell: A neural image caption generator. In arXiv preprint arXiv:1411.4555, 2014.[[pdf]](https://arxiv.org/pdf/1411.4555.pdf)
+
 **[85]** Donahue, Jeff, et al. Long-term recurrent convolutional networks for visual recognition and description. In arXiv preprint arXiv:1411.4389 ,2014. [[pdf]](https://arxiv.org/pdf/1411.4389.pdf)
-**[86]** Karpathy, Andrej, and Li Fei-Fei. Deep visual-semantic alignments for generating image descriptions. In arXiv preprint arXiv:1412.2306, 2014. [[pdf]](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf):star::start::start::start::start:
+
+**[86]** Karpathy, Andrej, and Li Fei-Fei. Deep visual-semantic alignments for generating image descriptions. In arXiv preprint arXiv:1412.2306, 2014. [[pdf]](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf):star::star::star::star::star:
+
 **[87]** Karpathy, Andrej, Armand Joulin, and Fei Fei F. Li. Deep fragment embeddings for bidirectional image sentence mapping. In Advances in neural information processing systems, 2014. [[pdf]](https://arxiv.org/pdf/1406.5679v1.pdf):star::star::star::star:
+
 **[88]** Fang, Hao, et al. From captions to visual concepts and back. In arXiv preprint arXiv:1411.4952, 2014. [[pdf]](https://arxiv.org/pdf/1411.4952v3.pdf):star::star::star::star::star:
+
 **[89]** Chen, Xinlei, and C. Lawrence Zitnick. Learning a recurrent visual representation for image caption generation. In arXiv preprint arXiv:1411.5654, 2014. [[pdf]](https://arxiv.org/pdf/1411.5654v1.pdf)
+
 **[90]** Mao, Junhua, et al. Deep captioning with multimodal recurrent neural networks (m-rnn). In arXiv preprint arXiv:1412.6632, 2014.[[pdf]](https://arxiv.org/pdf/1412.6632v5.pdf)
+
 **[91]** Xu, Kelvin, et al. Show, attend and tell: Neural image caption generation with visual attention. In arXiv preprint arXiv:1502.03044, 2015. [[pdf]](https://arxiv.org/pdf/1502.03044v3.pdf)
 
 ## 3.5 Machine Translation
