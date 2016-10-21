@@ -253,7 +253,7 @@ I would continue adding papers to this roadmap.
 
 > Some milestone papers are listed in RNN / Seq-to-Seq topic. 
 
-**[92]** Luong, Minh-Thang, et al. "**Addressing the rare word problem in neural machine translation**." arXiv preprint arXiv:1410.8206 (2014).[[pdf]](http://arxiv.org/pdf/1410.8206) :star::star::star:star:
+**[92]** Luong, Minh-Thang, et al. "**Addressing the rare word problem in neural machine translation**." arXiv preprint arXiv:1410.8206 (2014).[[pdf]](http://arxiv.org/pdf/1410.8206) :star::star::star::star:
 
 
 **[93]** Sennrich, et al. "**Neural Machine Translation of Rare Words with Subword Units**". In arXiv preprint arXiv:1508.07909, 2015. [[pdf]](https://arxiv.org/pdf/1508.07909.pdf):star::star::star:
