@@ -20,6 +20,14 @@ I would continue adding papers to this roadmap.
 
 # 1 Deep Learning History and Basics
 
+## FREE Courses
+Highly rated Coursera taught by Andrew Ng, Associate Professor, Stanford University; Chief Scientist, Baidu; Chairman and Co-founder, Coursera: Introduction to Machine learning and Mathmatics invovled
+https://www.coursera.org/learn/machine-learning
+
+Great follow up Coursera course on Neural Networks, Taught by: Geoffrey Hinton, Professor, University of Toronto
+https://www.coursera.org/learn/neural-networks
+
+
 ## 1.0 Book
 
 **[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015).[[pdf]](https://github.com/HFTrader/DeepLearningBook) **(Deep Learning Bible, you can read this book while reading following papers.)** :star::star::star::star::star:
