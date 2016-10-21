@@ -22,7 +22,7 @@ I would continue adding papers to this roadmap.
 
 ## 1.0 Book
 
-**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book in preparation. Draft chapters available at http://www. iro. umontreal. ca/∼ bengioy/dlbook (2015).[[pdf]](https://github.com/HFTrader/DeepLearningBook) **(Deep Learning Bible, you can read this book while reading following papers.)** :star::star::star::star::star:
+**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015).[[pdf]](https://github.com/HFTrader/DeepLearningBook) **(Deep Learning Bible, you can read this book while reading following papers.)** :star::star::star::star::star:
 
 ## 1.1 Survey
 
@@ -266,14 +266,15 @@ I would continue adding papers to this roadmap.
 
 **[97]** Wu, Schuster, Chen, Le, et al. "**Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation**". In arXiv preprint arXiv:1609.08144v2, 2016. [[pdf]](https://arxiv.org/pdf/1609.08144v2.pdf) **(Milestone)** :star::star::star::star:
 
+## 3.6 Robotics
 
-## 3.6 Audio
+**[98]** Levine, Sergey, et al. "**End-to-end training of deep visuomotor policies**." Journal of Machine Learning Research 17.39 (2016): 1-40. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf) :star::star::star::star::star:
 
-## 3.7 Art
+## 3.7 Audio
 
-## 3.8 Game
+## 3.8 Art
 
-## 3.9 Robotics
+## 3.9 Game
 
 ## 3.10 Knowledge Graph
 
