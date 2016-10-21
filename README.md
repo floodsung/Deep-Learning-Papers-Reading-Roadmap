@@ -228,7 +228,7 @@ I would continue adding papers to this roadmap.
 
 **[81]** Nam, Hyeonseob, Mooyeol Baek, and Bohyung Han. "**Modeling and Propagating CNNs in a Tree Structure for Visual Tracking**." arXiv preprint arXiv:1608.07242 (2016). [[pdf]](https://arxiv.org/pdf/1608.07242) **(VOT2016 Winner,TCNN)** :star::star::star::star:
 
-## 3.4 Image/Video Caption
+## 3.4 Image Caption
 **[82]** Farhadi,Ali,etal. "**Every picture tells a story: Generating sentences from images**". In Computer VisionECCV 2010. Springer Berlin Heidelberg:15-29, 2010. [[pdf]](https://www.cs.cmu.edu/~afarhadi/papers/sentence.pdf) :star::star::star:
 
 **[83]** Kulkarni, Girish, et al. "**Baby talk: Understanding and generating image descriptions**". In Proceedings of the 24th CVPR, 2011. [[pdf]](http://tamaraberg.com/papers/generation_cvpr11.pdf):star::star::star::star:
@@ -259,7 +259,11 @@ I would continue adding papers to this roadmap.
 
 ## 3.9 Robotics
 
-## 3.10 Other Frontiers
+## 3.10 Knowledge Graph
+
+## 3.11 Recommender Systems
+
+## 3.12 Other Frontiers
 
 
 
