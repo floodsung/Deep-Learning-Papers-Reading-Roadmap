@@ -32,16 +32,17 @@ if __name__ == '__main__':
 		if point.name == 'h1':
 			level1_directory = os.path.join('pdfs', clean_header(point.text))
 			os.makedirs(level1_directory)
-			print('\n'.join((point.text, "+" * len(point.text), "")))
+			print('\n'.join(("", point.text, "+" * len(point.text))))
 
 		elif point.name == 'h2':
 			current_directory = os.path.join(level1_directory, clean_header(point.text))
 			os.mkdir(current_directory)
-			print('\n'.join((point.text, "+" * len(point.text), "")))
+			print('\n'.join(("", point.text, "-" * len(point.text))))
 
 		elif point.name == 'p':
 			link = clean_pdf_link(point.find('a').attrs['href'])
 			extension = os.path.splitext(link)[1][1:]
+			extension = 'pdf' if extension not in ['pdf', 'html'] else extension
 			name = point.text.split('[' + extension + ']')[0].replace('.', '').replace('/', '_')
 			if link is not None:
 				print(name + ' (' + link + ')')
