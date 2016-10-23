@@ -200,6 +200,9 @@ I would continue adding papers to this roadmap.
 
 **[7]** Karl Moritz Hermann, et al. "**Teaching Machines to Read and Comprehend**." arXiv preprint arXiv:1506.03340(2015) [[pdf]](https://arxiv.org/abs/1506.03340) **(CNN/DailyMail cloze style questions)** :star::star:
 
+**[8]** Ronan Collobert, et al. "**Natural Language Processing (almost) from Scratch**." arXiv preprint arXiv:1103.0398v1 [cs.LG] [[pdf]](https://arxiv.org/abs/1103.0398) :star::star::star::star::star:
+
+
 ## 3.2 Object Detection
 
 **[1]** Szegedy, Christian, Alexander Toshev, and Dumitru Erhan. "**Deep neural networks for object detection**." Advances in Neural Information Processing Systems. 2013. [[pdf]](http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf) :star::star::star:
