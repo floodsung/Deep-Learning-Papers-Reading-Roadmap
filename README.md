@@ -34,7 +34,7 @@ I would continue adding papers to this roadmap.
 
 **[3]** Hinton, Geoffrey E., and Ruslan R. Salakhutdinov. "**Reducing the dimensionality of data with neural networks**." Science 313.5786 (2006): 504-507. [[pdf]](http://www.cs.toronto.edu/~hinton/science.pdf) **(Milestone, Show the promise of deep learning)** :star::star::star:
 
-## 1.3 ImageNet Evolution（Deep Learning broke out from here）
+## 1.3 ImageNet Evolution (Deep Learning broke out from here)
 
 **[4]** Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "**Imagenet classification with deep convolutional neural networks**." Advances in neural information processing systems. 2012. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) **(AlexNet, Deep Learning Breakthrough)** :star::star::star::star::star:
 
@@ -259,7 +259,7 @@ I would continue adding papers to this roadmap.
 
 ## 3.5 Machine Translation
 
-> Some milestone papers are listed in RNN / Seq-to-Seq topic. 
+> Some milestone papers are listed in RNN / Seq-to-Seq topic.
 
 **[1]** Luong, Minh-Thang, et al. "**Addressing the rare word problem in neural machine translation**." arXiv preprint arXiv:1410.8206 (2014). [[pdf]](http://arxiv.org/pdf/1410.8206) :star::star::star::star:
 
@@ -294,7 +294,7 @@ I would continue adding papers to this roadmap.
 
 ## 3.7 Art
 
-**[1]** Mordvintsev, Alexander; Olah, Christopher; Tyka, Mike (2015). "**Inceptionism: Going Deeper into Neural Networks**". Google Research. [[html]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) **(Deep Dream)** 
+**[1]** Mordvintsev, Alexander; Olah, Christopher; Tyka, Mike (2015). "**Inceptionism: Going Deeper into Neural Networks**". Google Research. [[html]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) **(Deep Dream)**
 :star::star::star::star:
 
 **[2]** Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. "**A neural algorithm of artistic style**." arXiv preprint arXiv:1508.06576 (2015). [[pdf]](http://arxiv.org/pdf/1508.06576) **(Outstanding Work, most successful method currently)** :star::star::star::star::star:
@@ -321,15 +321,3 @@ I would continue adding papers to this roadmap.
 ## 3.13 Neural Network Chip
 
 ## 3.14 Other Frontiers
-
-
-
-
-
-
-
-
-
-
-
-
