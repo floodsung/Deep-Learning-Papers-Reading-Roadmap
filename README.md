@@ -15,7 +15,6 @@ You will find many papers that are quite new but really worth reading.
 
 I would continue adding papers to this roadmap.
 
-
 ---------------------------------------
 
 # 1 Deep Learning History and Basics
@@ -253,11 +252,20 @@ I would continue adding papers to this roadmap.
 
 **[8]** Chen, Xinlei, and C. Lawrence Zitnick. "**Learning a recurrent visual representation for image caption generation**". In arXiv preprint arXiv:1411.5654, 2014. [[pdf]](https://arxiv.org/pdf/1411.5654v1.pdf):star::star::star::star:
 
-**[9]** Mao, Junhua, et al. "**Deep captioning with multimodal recurrent neural networks (m-rnn)**". In arXiv preprint arXiv:1412.6632, 2014. [[pdf]](https://arxiv.org/pdf/1412.6632v5.pdf):star::star::star:
+**[9]** Mao, Junhua, et al. "**Deep captioning with multimodal recurrent neural networks (m-rnn)**". In arXiv preprint arXiv:1412.6632, 2014. [[pdf]](https://arxiv.org/pdf/1412.6632v5.pdf)​:star:​​:star:​​:star:​
 
 **[10]** Xu, Kelvin, et al. "**Show, attend and tell: Neural image caption generation with visual attention**". In arXiv preprint arXiv:1502.03044, 2015. [[pdf]](https://arxiv.org/pdf/1502.03044v3.pdf):star::star::star::star::star:
 
-## 3.5 Machine Translation
+## 3.5 Image Generation
+**[1]** Reed, et al. **Generative Adversarial Text to Image Synthesis** . ICML 2016  [[pdf]](https://arxiv.org/pdf/1605.05396v2.pdf):star::star::star::star::star:
+
+**[2]** E Mansimov, et al. **Generating Images from Captions with Attention** . ICLR 2016  [[pdf]](https://arxiv.org/pdf/1511.02793v2.pdf):star::star::star::star:
+
+**[3]** X Yan, et al. **Attribute2Image: Conditional Image Generation from Visual Attributes** . ECCV 2016  [[pdf]](https://arxiv.org/pdf/1512.00570v2.pdf):star::star::star::star:
+
+**[4]** JY Zhu, et al. **Generative Visual Manipulation on the Natural Image Manifold** . ECCV 2016  [[pdf]](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/eccv16_gvm.pdf):star::star::star::star:
+
+## 3.6 Machine Translation
 
 > Some milestone papers are listed in RNN / Seq-to-Seq topic.
 
@@ -274,7 +282,7 @@ I would continue adding papers to this roadmap.
 
 **[6]** Wu, Schuster, Chen, Le, et al. "**Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation**". In arXiv preprint arXiv:1609.08144v2, 2016. [[pdf]](https://arxiv.org/pdf/1609.08144v2.pdf) **(Milestone)** :star::star::star::star:
 
-## 3.6 Robotics
+## 3.7 Robotics
 
 **[1]** Koutník, Jan, et al. "**Evolving large-scale neural networks for vision-based reinforcement learning**." Proceedings of the 15th annual conference on Genetic and evolutionary computation. ACM, 2013. [[pdf]](http://repository.supsi.ch/4550/1/koutnik2013gecco.pdf) :star::star::star:
 
@@ -292,7 +300,7 @@ I would continue adding papers to this roadmap.
 
 **[8]** A Rusu, M Vecerik, Thomas Rothörl, N Heess, R Pascanu, R Hadsell."**Sim-to-Real Robot Learning from Pixels with Progressive Nets**." arXiv preprint arXiv:1610.04286 (2016). [[pdf]](https://arxiv.org/pdf/1610.04286.pdf) :star::star::star::star:
 
-## 3.7 Art
+## 3.8 Art
 
 **[1]** Mordvintsev, Alexander; Olah, Christopher; Tyka, Mike (2015). "**Inceptionism: Going Deeper into Neural Networks**". Google Research. [[html]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) **(Deep Dream)**
 :star::star::star::star:
@@ -309,19 +317,19 @@ I would continue adding papers to this roadmap.
 
 **[7]** Vincent Dumoulin, Jonathon Shlens and Manjunath Kudlur. "**A learned representation for artistic style**." arXiv preprint arXiv:1610.07629 (2016). [[pdf]](https://arxiv.org/pdf/1610.07629v1.pdf) :star::star::star::star:
 
-## 3.8 Audio
+## 3.9 Audio
 
-## 3.9 Game
+## 3.10 Game
 
-## 3.10 Knowledge Graph
+## 3.11 Knowledge Graph
 
-## 3.11 Recommender Systems
+## 3.12 Recommender Systems
 
-## 3.12 Bioinformatics / Computational Biology
+## 3.13 Bioinformatics / Computational Biology
 
-## 3.13 Neural Network Chip
+## 3.14 Neural Network Chip
 
-## 3.14 Other Frontiers
+## 3.15 Other Frontiers
 
 
 
