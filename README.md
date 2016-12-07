@@ -10,11 +10,11 @@ The roadmap is constructed in accordance with the following four guidelines:
 - From old to state-of-the-art
 - from generic to specific areas
 - focus on state-of-the-art
+- AIGH specific interests at the bottom
 
 You will find many papers that are quite new but really worth reading.
 
 I would continue adding papers to this roadmap.
-
 
 ---------------------------------------
 
@@ -323,9 +323,27 @@ I would continue adding papers to this roadmap.
 
 ## 3.14 Other Frontiers
 
+# 4 AIGH readling list
 
+**[1]** Isola, Philliip; Zhu, Jun-Yan; Zhou, Tinghui; Efros, Alexei A.
+"**Image-to-Image Translation with Conditional Adversarial Nets**" arXiv
+prepreint arXiv:1610.07004 (2016). [[pdf]](https://arxiv.org/pdf/1611.07004v1.pdf)
+<unrated> 
 
+[website](https://phillipi.github.io/pix2pix/)
 
+**[2]** 
+
+Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew
+Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz,
+Zehan Wang, Wenzhe Shi "**Photo-Realistic Single Image Super-Resolution Using
+a Generative Adversarial Network**" arXiv preprint arXiv:1609.04802 (2016)
+[[pdf]](https://arxiv.org/pdf/1609.04802v3.pdf)
+
+**[3]**
+Stefan Wager, Guenther Walther "**Adaptive Concentration of Regression Trees,
+with Application to Random Forests**" arXiv preprint arXiv:1503.06388 (2016)
+[[pdf]](https://arxiv.org/pdf/1503.06388v3.pdf)
 
 
 
