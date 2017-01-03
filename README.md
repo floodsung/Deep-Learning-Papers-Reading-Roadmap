@@ -316,6 +316,7 @@ I would continue adding papers to this roadmap.
 ## 3.10 Knowledge Graph
 
 ## 3.11 Recommender Systems
+**[1]** Steffen Rendle. "**Factorization Machines**." 2010 IEEE International Conference on Data Mining, 2010. [[pdf]](http://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) :star::star::star::star:
 
 ## 3.12 Bioinformatics / Computational Biology
 
