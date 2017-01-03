@@ -309,21 +309,7 @@ I would continue adding papers to this roadmap.
 
 **[7]** Vincent Dumoulin, Jonathon Shlens and Manjunath Kudlur. "**A learned representation for artistic style**." arXiv preprint arXiv:1610.07629 (2016). [[pdf]](https://arxiv.org/pdf/1610.07629v1.pdf) :star::star::star::star:
 
-## 3.8 Audio
-
-## 3.9 Game
-
-## 3.10 Knowledge Graph
-
-## 3.11 Recommender Systems
-
-## 3.12 Bioinformatics / Computational Biology
-
-## 3.13 Neural Network Chip
-
-## 3.14 Other Frontiers
-
-## 3.15 Object Segmentation
+## 3.8 Object Segmentation
 
 **[1]** J. Long, E. Shelhamer, and T. Darrell, “**Fully convolutional networks for semantic segmentation**.” in CVPR, 2015. [[pdf]](https://arxiv.org/pdf/1411.4038v2.pdf) :star::star::star::star::star:
 
