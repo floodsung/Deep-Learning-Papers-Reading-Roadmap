@@ -324,17 +324,3 @@ I would continue adding papers to this roadmap.
 
 **[5]** Dai, J., He, K., Sun, J. "**Instance-sensitive Fully Convolutional Networks**." arXiv preprint arXiv:1603.08678 (2016). [[pdf]](https://arxiv.org/pdf/1603.08678v1.pdf) :star::star::star:
 
-
-## 3.9 Audio
-
-## 3.10 Game
-
-## 3.11 Knowledge Graph
-
-## 3.12 Recommender Systems
-
-## 3.13 Bioinformatics / Computational Biology
-
-## 3.14 Neural Network Chip
-
-## 3.15 Other Frontiers
