@@ -1,0 +1,2 @@
+mistune>=0.7.2
+beautifulsoup4>=4.4.1
