@@ -23,8 +23,6 @@ def clean_pdf_link(link):
         link = link.replace('abs', 'pdf')   
         if not(link.endswith('.pdf')):
             link = '.'.join((link, 'pdf'))
-    if 'github' in link:
-        link = '.'.join((link, 'html'))        
     return link
 
 def clean_text(text, replacements = {' ': '_', '/': '_', '.': '', '"': ''}):
