@@ -8,6 +8,7 @@ import argparse
 import mistune
 import bs4 as BeautifulSoup
 import socket
+import time
 
 def download_pdf(link, location, name):
     try:
@@ -20,6 +21,7 @@ def download_pdf(link, location, name):
         raise   
     except socket.timeout:
         print(" ".join(("can't download", link, "due to connection timeout!")) )
+        raise
 
 def clean_pdf_link(link):
     if 'arxiv' in link:
@@ -100,6 +102,13 @@ if __name__ == '__main__':
                             fullname = '.'.join((name, ext))
                             if not os.path.exists('/'.join((current_directory, fullname)) ):
                                download_pdf(link, current_directory, '.'.join((name, ext)))
+                        except KeyboardInterrupt:
+                            try:
+                                print("Press Ctrl-C in 1 second to quit")
+                                time.sleep(1)
+                            except KeyboardInterrupt:
+                                print("Cancelling..")
+                                break
                         except:
                             failures.append(point.text)
                         
