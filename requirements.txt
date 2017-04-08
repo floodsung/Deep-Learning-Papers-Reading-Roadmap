@@ -1,2 +1,3 @@
 mistune>=0.7.2
 beautifulsoup4>=4.4.1
+six>=1.10.0
