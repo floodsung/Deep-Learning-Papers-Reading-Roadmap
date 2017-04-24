@@ -332,4 +332,7 @@ Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2
 
 **[5]** Dai, J., He, K., Sun, J. "**Instance-sensitive Fully Convolutional Networks**." arXiv preprint arXiv:1603.08678 (2016). [[pdf]](https://arxiv.org/pdf/1603.08678v1.pdf) :star::star::star:
 
+## 3.9 Super Resolution
 
+**[1]** Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang. "**Image Super-Resolution Using Deep
+Convolutional Networks.**" arXiv preprint arXiv:1501.00092 (2014) [[pdf]] (https://arxiv.org/pdf/1501.00092.pdf) :star::star::star::star::star:
