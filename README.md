@@ -335,4 +335,4 @@ Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2
 ## 3.9 Super Resolution
 
 **[1]** Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang. "**Image Super-Resolution Using Deep
-Convolutional Networks.**" arXiv preprint arXiv:1501.00092 (2014) [[pdf]] (https://arxiv.org/pdf/1501.00092.pdf) :star::star::star::star::star:
+Convolutional Networks.**" arXiv preprint arXiv:1501.00092 (2014) [[pdf]](https://arxiv.org/pdf/1501.00092.pdf) :star::star::star::star::star:
