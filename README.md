@@ -1,4 +1,4 @@
-# Deep Learning Papers Reading Roadmap
+﻿# Deep Learning Papers Reading Roadmap
 
 >If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
 
@@ -331,5 +331,11 @@ Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2
 **[4]** Dai, J., He, K., Sun, J. "**Instance-aware semantic segmentation via multi-task network cascades**." in CVPR. 2016 [[pdf]](https://arxiv.org/pdf/1512.04412v1.pdf) :star::star::star:
 
 **[5]** Dai, J., He, K., Sun, J. "**Instance-sensitive Fully Convolutional Networks**." arXiv preprint arXiv:1603.08678 (2016). [[pdf]](https://arxiv.org/pdf/1603.08678v1.pdf) :star::star::star:
+
+
+## 3.9 Super-Resolution
+
+**[1]** Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang "**Image Super-Resolution Using Deep Convolutional Networks**." arXiv preprint arXiv:1501.00092 (2015). [[pdf]](https://arxiv.org/pdf/1501.00092.pdf) :star::star::star::star::star:
+
 
 
