@@ -332,4 +332,8 @@ Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2
 
 **[5]** Dai, J., He, K., Sun, J. "**Instance-sensitive Fully Convolutional Networks**." arXiv preprint arXiv:1603.08678 (2016). [[pdf]](https://arxiv.org/pdf/1603.08678v1.pdf) :star::star::star:
 
+## 3.9 Bioinformatics
+
+**[1]** C. Angermueller, T. Pärnamaa, L. Parts, and O. Stegle. "**Deep Learning for Computational Biology**". in Molecular systems biology, 12(7), 878. [[pdf]](http://msb.embopress.org/content/12/7/878) :star::star::star::star:
+
 
