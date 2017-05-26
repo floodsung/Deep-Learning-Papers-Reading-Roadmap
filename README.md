@@ -9,11 +9,11 @@
   * [1.4 Speech Recognition Evolution](#14-speech-recognition-evolution)
   * [2.1 Model](#21-model)
   * [2.2 Optimization](#22-optimization)
-  * [2.3 Unsupervised Learning / Deep Generative Model](#23-unsupervised-learning-deep-generative-model)
-  * [2.4 RNN / Sequence-to-Sequence Model](#24-rnn-sequence-to-sequence-model)
+  * [2.3 Unsupervised Learning / Deep Generative Model](#23-unsupervised-learning--deep-generative-model)
+  * [2.4 RNN / Sequence-to-Sequence Model](#24-rnn--sequence-to-sequence-model)
   * [2.5 Neural Turing Machine](#25-neural-turing-machine)
   * [2.6 Deep Reinforcement Learning](#26-deep-reinforcement-learning)
-  * [2.7 Deep Transfer Learning / Lifelong Learning / especially for RL](#27-deep-transfer-learning-lifelong-learning-especially-for-rl)
+  * [2.7 Deep Transfer Learning / Lifelong Learning / especially for RL](#27-deep-transfer-learning--lifelong-learning--especially-for-rl)
   * [2.8 One Shot Deep Learning](#28-one-shot-deep-learning)
 * [3 Applications](#3-applications)
   * [3.1 NLP(Natural Language Processing)](#31-nlpnatural-language-processing)
@@ -360,5 +360,3 @@ Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2
 **[4]** Dai, J., He, K., Sun, J. "**Instance-aware semantic segmentation via multi-task network cascades**." in CVPR. 2016 [[pdf]](pdfs/3%20Applications/3.8%20Object%20Segmentation/4%20Instance-aware%20semantic%20segmentation%20via%20multi-task%20network%20cascades.pdf) :star::star::star:
 
 **[5]** Dai, J., He, K., Sun, J. "**Instance-sensitive Fully Convolutional Networks**." arXiv preprint arXiv:1603.08678 (2016). [[pdf]](pdfs/3%20Applications/3.8%20Object%20Segmentation/5%20Instance-sensitive%20Fully%20Convolutional%20Networks.pdf) :star::star::star:
-
-
