@@ -154,6 +154,8 @@ I would continue adding papers to this roadmap.
 
 **[52]** Silver, David, et al. "**Mastering the game of Go with deep neural networks and tree search**." Nature 529.7587 (2016): 484-489. [[pdf]](http://willamette.edu/~levenick/cs448/goNature.pdf) **(AlphaGo)** :star::star::star::star::star:
 
+**[53]** Ivaylo Popov, et al. "**Data-efficient Deep Reinforcement Learning for Dexterous Manipulation**." arXiv preprint arXiv:1704.03073 (2017). [[pdf]](https://arxiv.org/pdf/1704.03073) **(ADPG,Dexterous Manipulation)** :star::star::star::star
+
 ## 2.7 Deep Transfer Learning / Lifelong Learning / especially for RL
 
 **[53]** Bengio, Yoshua. "**Deep Learning of Representations for Unsupervised and Transfer Learning**." ICML Unsupervised and Transfer Learning 27 (2012): 17-36. [[pdf]](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf) **(A Tutorial)** :star::star::star:
