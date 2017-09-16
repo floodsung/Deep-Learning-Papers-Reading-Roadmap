@@ -44,6 +44,8 @@ I would continue adding papers to this roadmap.
 
 **[7]** He, Kaiming, et al. "**Deep residual learning for image recognition**." arXiv preprint arXiv:1512.03385 (2015). [[pdf]](https://arxiv.org/pdf/1512.03385.pdf) **(ResNet,Very very deep networks, CVPR best paper)** :star::star::star::star::star:
 
+**[8]** Jie Hu, Li Shen, Gang Sun "**Squeeze-and-Excitation Networks**." arXiv preprint https://arxiv.org/abs/1709.01507v1 (2017). [[pdf]](https://arxiv.org/pdf/1709.01507v1) **(Winner of ImageNet/ILSVRC 2017, error rate 2.251%)** :star::star::star::star::star:
+
 ## 1.4 Speech Recognition Evolution
 
 **[8]** Hinton, Geoffrey, et al. "**Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups**." IEEE Signal Processing Magazine 29.6 (2012): 82-97. [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf) **(Breakthrough in speech recognition)**:star::star::star::star:
