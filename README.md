@@ -56,7 +56,9 @@ I would continue adding papers to this roadmap.
 
 **[12]** Amodei, Dario, et al. "**Deep speech 2: End-to-end speech recognition in english and mandarin**." arXiv preprint arXiv:1512.02595 (2015). [[pdf]](https://arxiv.org/pdf/1512.02595.pdf) **(Baidu Speech Recognition System)** :star::star::star::star:
 
-**[13]** W. Xiong, J. Droppo, X. Huang, F. Seide, M. Seltzer, A. Stolcke, D. Yu, G. Zweig "**Achieving Human Parity in Conversational Speech Recognition**." arXiv preprint arXiv:1610.05256 (2016). [[pdf]](https://arxiv.org/pdf/1610.05256v1) **(State-of-the-art in speech recognition, Microsoft)** :star::star::star::star:
+**[13]** W. Xiong, J. Droppo, X. Huang, F. Seide, M. Seltzer, A. Stolcke, D. Yu, G. Zweig "**Achieving Human Parity in Conversational Speech Recognition (2016 version, 5.9% error)**." arXiv preprint arXiv:1610.05256 (2016). [[pdf]](https://arxiv.org/pdf/1610.05256v1) **(Microsoft)** :star::star::star::star:
+
+**[14]** W. Xiong, L. Wu, F. Alleva, J. Droppo, X. Huang, A. Stolcke "**The Microsoft 2017 Conversational Speech Recognition System (5.1% error)**." arXiv preprint 	arXiv:1708.06073 (2017). [[pdf]](https://arxiv.org/pdf/1708.06073) **(State-of-the-art in speech recognition, Microsoft)** :star::star::star::star::star:
 
 >After reading above papers, you will have a basic understanding of the Deep Learning history, the basic architectures of Deep Learning model(including CNN, RNN, LSTM) and how deep learning can be applied to image and speech recognition issues. The following papers will take you in-depth understanding of the Deep Learning method, Deep Learning in different areas of application and the frontiers. I suggest that you can choose the following papers based on your interests and research direction.
 
