@@ -3,7 +3,7 @@ import os
 import re
 from six.moves.urllib.request import urlopen
 from six.moves.urllib.error import HTTPError
-import urllib2
+import urllib
 import shutil
 import argparse
 import mistune
@@ -13,48 +13,55 @@ import time
 import requests
 
 # encoding=utf8  
-import sys  
+import sys
 
-reload(sys)  
-sys.setdefaultencoding('utf8')
+
+# reload(sys)
+# sys.setdefaultencoding('utf8')
+
 
 def download_pdf(link, location, name):
     try:
         response = requests.get(link)
         with open(os.path.join(location, name), 'wb') as f:
-        	f.write(response.content)
-        	f.close()
+            f.write(response.content)
+            f.close()
     except HTTPError:
-        print('>>> Error 404: cannot be downloaded!\n') 
-        raise   
-    except socket.timeout:
-        print(" ".join(("can't download", link, "due to connection timeout!")) )
+        print('>>> Error 404: cannot be downloaded!\n')
         raise
+    except socket.timeout:
+        print(" ".join(("can't download", link, "due to connection timeout!")))
+        raise
+
 
 def clean_pdf_link(link):
     if 'arxiv' in link:
-        link = link.replace('abs', 'pdf')   
-        if not(link.endswith('.pdf')):
+        link = link.replace('abs', 'pdf')
+        if not (link.endswith('.pdf')):
             link = '.'.join((link, 'pdf'))
 
     print(link)
     return link
 
-def clean_text(text, replacements = {':': '_', ' ': '_', '/': '_', '.': '', '"': ''}):
+
+def clean_text(text, replacements={':': '_', ' ': '_', '/': '_', '.': '', '"': ''}):
     for key, rep in replacements.items():
         text = text.replace(key, rep)
-    return text    
+    return text
 
-def print_title(title, pattern = "-"):
-    print('\n'.join(("", title, pattern * len(title)))) 
+
+def print_title(title, pattern="-"):
+    print('\n'.join(("", title, pattern * len(title))))
+
 
 def get_extension(link):
     extension = os.path.splitext(link)[1][1:]
     if extension in ['pdf', 'html']:
         return extension
     if 'pdf' in extension:
-        return 'pdf'    
-    return 'pdf'    
+        return 'pdf'
+    return 'pdf'
+
 
 def shorten_title(title):
     m1 = re.search('[[0-9]*]', title)
@@ -62,16 +69,16 @@ def shorten_title(title):
     if m1:
         title = m1.group(0)
     if m2:
-        title = ' '.join((title, m2.group(0)))   
-    return title[:50] + ' [...]'    
+        title = ' '.join((title, m2.group(0)))
+    return title[:50] + ' [...]'
 
 
 if __name__ == '__main__':
 
-    parser = argparse.ArgumentParser(description = 'Download all the PDF/HTML links into README.md')
+    parser = argparse.ArgumentParser(description='Download all the PDF/HTML links into README.md')
     parser.add_argument('-d', action="store", dest="directory")
-    parser.add_argument('--no-html', action="store_true", dest="nohtml", default = False)
-    parser.add_argument('--overwrite', action="store_true", default = False)    
+    parser.add_argument('--no-html', action="store_true", dest="nohtml", default=False)
+    parser.add_argument('--overwrite', action="store_true", default=False)
     results = parser.parse_args()
 
     output_directory = 'pdfs' if results.directory is None else results.directory
@@ -81,8 +88,8 @@ if __name__ == '__main__':
     if results.overwrite and os.path.exists(output_directory):
         shutil.rmtree(output_directory)
 
-    with open('README.md') as readme:
-        readme_html = mistune.markdown(readme.read())
+    with open('README.md', 'rb') as readme:
+        readme_html = mistune.markdown(readme.read().decode('utf-8'))
         readme_soup = BeautifulSoup.BeautifulSoup(readme_html, "html.parser")
 
     point = readme_soup.find_all('h1')[1]
@@ -95,7 +102,7 @@ if __name__ == '__main__':
                     h1_directory = os.path.join(output_directory, clean_text(point.text))
                     current_directory = h1_directory
                 elif point.name == 'h2':
-                    current_directory = os.path.join(h1_directory, clean_text(point.text))  
+                    current_directory = os.path.join(h1_directory, clean_text(point.text))
                 if not os.path.exists(current_directory):
                     os.makedirs(current_directory)
                 print_title(point.text)
@@ -111,7 +118,7 @@ if __name__ == '__main__':
                         try:
                             name = clean_text(point.text.split('[' + ext + ']')[0])
                             fullname = '.'.join((name, ext))
-                            if not os.path.exists('/'.join((current_directory, fullname)) ):
+                            if not os.path.exists('/'.join((current_directory, fullname))):
                                 download_pdf(link, current_directory, '.'.join((name, ext)))
                         except KeyboardInterrupt:
                             try:
@@ -122,8 +129,8 @@ if __name__ == '__main__':
                                 break
                         except:
                             failures.append(point.text)
-                        
-        point = point.next_sibling          
+
+        point = point.next_sibling
 
     print('Done!')
     if failures:
