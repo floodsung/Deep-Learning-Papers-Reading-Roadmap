@@ -1,9 +1,7 @@
 from __future__ import print_function
 import os
 import re
-from six.moves.urllib.request import urlopen
 from six.moves.urllib.error import HTTPError
-import urllib2
 import shutil
 import argparse
 import mistune
@@ -14,9 +12,14 @@ import requests
 
 # encoding=utf8  
 import sys  
-
-reload(sys)  
-sys.setdefaultencoding('utf8')
+try:
+    reload(sys)
+except NameError:
+    pass
+try:
+    sys.setdefaultencoding('utf8')
+except AttributeError:
+    pass
 
 def download_pdf(link, location, name):
     try:
