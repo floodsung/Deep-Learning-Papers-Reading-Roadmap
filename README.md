@@ -319,6 +319,7 @@ Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2
 
 **[9]** Ulyanov, Dmitry and Lebedev, Vadim, et al. "**Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**." arXiv preprint arXiv:1603.03417(2016). [[pdf]](http://arxiv.org/abs/1603.03417) **(texture generation and style transfer)** :star::star::star::star:
 
+**[10]** Yijun Li, Ming-Yu Liu ,Xueting Li, Ming-Hsuan Yang,Jan Kautz (NVIDIA). "**A Closed-form Solution to Photorealistic Image Stylization**." arXiv preprint arXiv:1802.06474(2018). [[pdf]](https://arxiv.org/pdf/1802.06474.pdf) **(Very fast and ultra realistic style transfer)** :star::star::star::star:
 
 ## 3.8 Object Segmentation
 
