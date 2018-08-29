@@ -84,7 +84,7 @@ if __name__ == '__main__':
     if results.overwrite and os.path.exists(output_directory):
         shutil.rmtree(output_directory)
 
-    with open('README.md') as readme:
+    with open('README.md', 'r', encoding='utf8') as readme:
         readme_html = mistune.markdown(readme.read())
         readme_soup = BeautifulSoup.BeautifulSoup(readme_html, "html.parser")
 
