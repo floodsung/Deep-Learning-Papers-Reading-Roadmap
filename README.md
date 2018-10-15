@@ -224,6 +224,9 @@ I would continue adding papers to this roadmap.
 Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2016). [[pdf]](https://arxiv.org/abs/1605.06409) :star::star::star::star:
 
 **[9]** He, Gkioxari, et al. "**Mask R-CNN**" arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/abs/1703.06870) :star::star::star::star:
+
+**[10]** Cao, Zhe etal. "**Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields ∗**". arXiv preprint arXiv:1611.08050v2, 2017 [[pdf]](https://arxiv.org/pdf/1611.08050.pdf) :star::star::star:
+
 ## 3.3 Visual Tracking
 
 **[1]** Wang, Naiyan, and Dit-Yan Yeung. "**Learning a deep compact image representation for visual tracking**." Advances in neural information processing systems. 2013. [[pdf]](http://papers.nips.cc/paper/5192-learning-a-deep-compact-image-representation-for-visual-tracking.pdf) **(First Paper to do visual tracking using Deep Learning,DLT Tracker)** :star::star::star:
