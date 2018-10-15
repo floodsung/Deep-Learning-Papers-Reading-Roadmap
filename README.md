@@ -15,6 +15,7 @@ You will find many papers that are quite new but really worth reading.
 
 I would continue adding papers to this roadmap.
 
+The stars depict the rough rating of the quality and relative importance of paper in the list.
 
 ---------------------------------------
 
