@@ -15,6 +15,7 @@ You will find many papers that are quite new but really worth reading.
 
 I would continue adding papers to this roadmap.
 
+The stars depict the rough rating of the quality and relative importance of paper in the list.
 
 ---------------------------------------
 
@@ -60,7 +61,7 @@ I would continue adding papers to this roadmap.
 
 >After reading above papers, you will have a basic understanding of the Deep Learning history, the basic architectures of Deep Learning model(including CNN, RNN, LSTM) and how deep learning can be applied to image and speech recognition issues. The following papers will take you in-depth understanding of the Deep Learning method, Deep Learning in different areas of application and the frontiers. I suggest that you can choose the following papers based on your interests and research direction.
 
-#2 Deep Learning Method
+# 2 Deep Learning Method
 
 ## 2.1 Model
 
@@ -224,6 +225,9 @@ I would continue adding papers to this roadmap.
 Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2016). [[pdf]](https://arxiv.org/abs/1605.06409) :star::star::star::star:
 
 **[9]** He, Gkioxari, et al. "**Mask R-CNN**" arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/abs/1703.06870) :star::star::star::star:
+
+**[10]** Cao, Zhe etal. "**Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields ∗**". arXiv preprint arXiv:1611.08050v2, 2017 [[pdf]](https://arxiv.org/pdf/1611.08050.pdf) :star::star::star:
+
 ## 3.3 Visual Tracking
 
 **[1]** Wang, Naiyan, and Dit-Yan Yeung. "**Learning a deep compact image representation for visual tracking**." Advances in neural information processing systems. 2013. [[pdf]](http://papers.nips.cc/paper/5192-learning-a-deep-compact-image-representation-for-visual-tracking.pdf) **(First Paper to do visual tracking using Deep Learning,DLT Tracker)** :star::star::star:
