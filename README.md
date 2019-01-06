@@ -8,12 +8,12 @@ The roadmap is constructed in accordance with the following four guidelines:
 
 - From outline to detail
 - From old to state-of-the-art
-- from generic to specific areas
-- focus on state-of-the-art
+- From generic to specific areas
+- Focus on state-of-the-art
 
 You will find many papers that are quite new but really worth reading.
 
-I would continue adding papers to this roadmap.
+I will continue adding papers to this roadmap.
 
 
 ---------------------------------------
