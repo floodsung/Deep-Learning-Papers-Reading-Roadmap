@@ -227,6 +227,10 @@ Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2
 
 **[10]** Bochkovskiy, Alexey, et al. "**YOLOv4: Optimal Speed and Accuracy of Object Detection.**"  arXiv preprint arXiv:2004.10934 (2020). [[pdf]](https://arxiv.org/pdf/2004.10934) :star::star::star::star:
 
+
+**[11]** Tan, Mingxing, et al. “**EfficientDet: Scalable and Efficient Object Detection.**" arXiv preprint arXiv:1911.09070 (2019). [[pdf]](https://arxiv.org/pdf/1911.09070) :star::star::star::star::star:
+
+
 ## 3.3 Visual Tracking
 
 **[1]** Wang, Naiyan, and Dit-Yan Yeung. "**Learning a deep compact image representation for visual tracking**." Advances in neural information processing systems. 2013. [[pdf]](http://papers.nips.cc/paper/5192-learning-a-deep-compact-image-representation-for-visual-tracking.pdf) **(First Paper to do visual tracking using Deep Learning,DLT Tracker)** :star::star::star:
