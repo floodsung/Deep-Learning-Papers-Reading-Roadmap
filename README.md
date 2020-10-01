@@ -226,6 +226,8 @@ Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2
 **[9]** He, Gkioxari, et al. "**Mask R-CNN**" arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/abs/1703.06870) :star::star::star::star:
 ## 3.3 Visual Tracking
 
+**[10]** Bochkovskiy, Alexey, et al. "**YOLOv4: Optimal Speed and Accuracy of Object Detection.**"  arXiv preprint arXiv:2004.10934 (2020). [[pdf]](https://arxiv.org/pdf/2004.10934) :star::star::star::star:
+
 **[1]** Wang, Naiyan, and Dit-Yan Yeung. "**Learning a deep compact image representation for visual tracking**." Advances in neural information processing systems. 2013. [[pdf]](http://papers.nips.cc/paper/5192-learning-a-deep-compact-image-representation-for-visual-tracking.pdf) **(First Paper to do visual tracking using Deep Learning,DLT Tracker)** :star::star::star:
 
 **[2]** Wang, Naiyan, et al. "**Transferring rich feature hierarchies for robust visual tracking**." arXiv preprint arXiv:1501.04587 (2015). [[pdf]](http://arxiv.org/pdf/1501.04587) **(SO-DLT)** :star::star::star::star:
