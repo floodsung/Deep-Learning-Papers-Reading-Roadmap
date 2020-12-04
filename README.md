@@ -111,6 +111,8 @@ I would continue adding papers to this roadmap.
 
 **[34]** Oord, Aaron van den, et al. "Conditional image generation with PixelCNN decoders." arXiv preprint arXiv:1606.05328 (2016). [[pdf]](https://arxiv.org/pdf/1606.05328) **(PixelCNN)** :star::star::star::star:
 
+**[34]** S. Mehri et al., "**SampleRNN: An Unconditional End-to-End Neural Audio Generation Model**." arXiv preprint 	arXiv:1612.07837 (2016). [[pdf]](https://arxiv.org/pdf/1612.07837.pdf) :star::star::star::star::star:
+
 ## 2.4 RNN / Sequence-to-Sequence Model
 
 **[35]** Graves, Alex. "**Generating sequences with recurrent neural networks**." arXiv preprint arXiv:1308.0850 (2013). [[pdf]](http://arxiv.org/pdf/1308.0850) **(LSTM, very nice generating result, show the power of RNN)** :star::star::star::star:
