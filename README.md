@@ -1,3 +1,32 @@
+<small><i><a href='https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/edit/master/README.md'>Table of contents </a></i></small>
+- [Deep Learning Papers Reading Roadmap](#deep-learning-papers-reading-roadmap)
+- [1 Deep Learning History and Basics](#1-deep-learning-history-and-basics)
+  * [1.0 Book](#10-book)
+  * [1.1 Survey](#11-survey)
+  * [1.2 Deep Belief Network(DBN)(Milestone of Deep Learning Eve)](#12-deep-belief-network-dbn--milestone-of-deep-learning-eve-)
+  * [1.3 ImageNet Evolution（Deep Learning broke out from here）](#13-imagenet-evolution-deep-learning-broke-out-from-here-)
+  * [1.4 Speech Recognition Evolution](#14-speech-recognition-evolution)
+- [2 Deep Learning Method](2-Deep-Learning-Method)  
+  * [2.1 Model](#21-model)
+  * [2.2 Optimization](#22-optimization)
+  * [2.3 Unsupervised Learning / Deep Generative Model](#23-unsupervised-learning---deep-generative-model)
+  * [2.4 RNN / Sequence-to-Sequence Model](#24-rnn---sequence-to-sequence-model)
+  * [2.5 Neural Turing Machine](#25-neural-turing-machine)
+  * [2.6 Deep Reinforcement Learning](#26-deep-reinforcement-learning)
+  * [2.7 Deep Transfer Learning / Lifelong Learning / especially for RL](#27-deep-transfer-learning---lifelong-learning---especially-for-rl)
+  * [2.8 One Shot Deep Learning](#28-one-shot-deep-learning)
+- [3 Applications](#3-applications)
+  * [3.1 NLP(Natural Language Processing)](#31-nlp-natural-language-processing-)
+  * [3.2 Object Detection](#32-object-detection)
+  * [3.3 Visual Tracking](#33-visual-tracking)
+  * [3.4 Image Caption](#34-image-caption)
+  * [3.5 Machine Translation](#35-machine-translation)
+  * [3.6 Robotics](#36-robotics)
+  * [3.7 Art](#37-art)
+  * [3.8 Object Segmentation](#38-object-segmentation)
+
+
+
 # Deep Learning Papers Reading Roadmap
 
 >If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
@@ -60,7 +89,7 @@ I would continue adding papers to this roadmap.
 
 >After reading above papers, you will have a basic understanding of the Deep Learning history, the basic architectures of Deep Learning model(including CNN, RNN, LSTM) and how deep learning can be applied to image and speech recognition issues. The following papers will take you in-depth understanding of the Deep Learning method, Deep Learning in different areas of application and the frontiers. I suggest that you can choose the following papers based on your interests and research direction.
 
-#2 Deep Learning Method
+# 2 Deep Learning Method
 
 ## 2.1 Model
 
