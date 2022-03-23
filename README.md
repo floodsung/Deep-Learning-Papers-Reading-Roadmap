@@ -113,6 +113,9 @@ I would continue adding papers to this roadmap.
 
 **[34]** S. Mehri et al., "**SampleRNN: An Unconditional End-to-End Neural Audio Generation Model**." arXiv preprint 	arXiv:1612.07837 (2016). [[pdf]](https://arxiv.org/pdf/1612.07837.pdf) :star::star::star::star::star:
 
+**[34]** Frid-Adar, Maayan, et al. "GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification" Neurocomputing Journal (2018). [[pdf]](https://www.sciencedirect.com/science/article/pii/S0925231218310749) **(Image Generation using DCGAN ; Medical Image Analysis)** :star::star::star::star:
+
+
 ## 2.4 RNN / Sequence-to-Sequence Model
 
 **[35]** Graves, Alex. "**Generating sequences with recurrent neural networks**." arXiv preprint arXiv:1308.0850 (2013). [[pdf]](http://arxiv.org/pdf/1308.0850) **(LSTM, very nice generating result, show the power of RNN)** :star::star::star::star:
