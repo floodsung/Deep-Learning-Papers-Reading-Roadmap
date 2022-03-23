@@ -158,6 +158,8 @@ I would continue adding papers to this roadmap.
 
 **[53]** Silver, David, et al. "**Mastering the game of Go with deep neural networks and tree search**." Nature 529.7587 (2016): 484-489. [[pdf]](http://willamette.edu/~levenick/cs448/goNature.pdf) **(AlphaGo)** :star::star::star::star::star:
 
+**[53]** T. Salimans, et al. "**Evolution Strategies as a Scalable Alternative to Reinforcement Learning**." arXiv preprint arXiv:1703.03864 (2017). [[pdf]](https://arxiv.org/pdf/1703.03864) **(ES)** :star::star::star::star:
+
 ## 2.7 Deep Transfer Learning / Lifelong Learning / especially for RL
 
 **[54]** Bengio, Yoshua. "**Deep Learning of Representations for Unsupervised and Transfer Learning**." ICML Unsupervised and Transfer Learning 27 (2012): 17-36. [[pdf]](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf) **(A Tutorial)** :star::star::star:
