@@ -332,6 +332,8 @@ Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2
 
 **[10]** Yijun Li, Ming-Yu Liu ,Xueting Li, Ming-Hsuan Yang,Jan Kautz (NVIDIA). "**A Closed-form Solution to Photorealistic Image Stylization**." arXiv preprint arXiv:1802.06474(2018). [[pdf]](https://arxiv.org/pdf/1802.06474.pdf) **(Very fast and ultra realistic style transfer)** :star::star::star::star:
 
+**[11]** Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever (OpenAI). "**Zero-Shot Text-to-Image Generation**." arXiv preprint arXiv:2102.12092(2021). [[pdf]](https://arxiv.org/pdf/2102.12092.pdf) **(DALL-E image generatino using VAE)** :star::star::star::star:
+
 ## 3.8 Object Segmentation
 
 **[1]** J. Long, E. Shelhamer, and T. Darrell, “**Fully convolutional networks for semantic segmentation**.” in CVPR, 2015. [[pdf]](https://arxiv.org/pdf/1411.4038v2.pdf) :star::star::star::star::star:
