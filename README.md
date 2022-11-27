@@ -344,4 +344,6 @@ Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2
 
 **[5]** Dai, J., He, K., Sun, J. "**Instance-sensitive Fully Convolutional Networks**." arXiv preprint arXiv:1603.08678 (2016). [[pdf]](https://arxiv.org/pdf/1603.08678v1.pdf) :star::star::star:
 
+## 3.9 Human Pose Estimation
 
+**[1]** Cao, Z., Simon, T., Wei, S. E., & Sheikh, Y. "**OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields**." arXiv preprint arXiv:1812.08008(2019). [[pdf]](https://arxiv.org/pdf/1812.08008.pdf) :star::star::star:
